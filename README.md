@@ -4,7 +4,7 @@ A command line tool that links various characters to the input characters
 # Installtion
 
 ```
-$ go get https://github.com/ryonakao/sprinkle.git
+$ go get github.com/ryonakao/sprinkle
 ```
 
 # Usage
